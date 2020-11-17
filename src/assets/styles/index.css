@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+
+/* hr {
+    @apply border-gray-500;
+    @apply my-8;
+ } */
+
+@tailwind utilities;
